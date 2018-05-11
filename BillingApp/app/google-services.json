@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "815163516307",
+    "firebase_url": "https://billingapp-1a187.firebaseio.com",
+    "project_id": "billingapp-1a187",
+    "storage_bucket": "billingapp-1a187.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815163516307:android:68028dd2fc805997",
+        "android_client_info": {
+          "package_name": "com.example.hp.billingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815163516307-v0eqdtro33crbuk283ccln6cf0371ghv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.billingapp",
+            "certificate_hash": "a7a8aa8fd6d500bfe0721016700b8e2ff51aa9cf"
+          }
+        },
+        {
+          "client_id": "815163516307-ktk72msb933d4jjm5a4gs3lkkei2rcgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHd4iACzMfwz3xAqdrgrJfm32zl8kQwSQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815163516307-ktk72msb933d4jjm5a4gs3lkkei2rcgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
